@@ -1,0 +1,1 @@
+trzeci commit, zaraz bedzie czwarty, piaty i dopiero push na server
