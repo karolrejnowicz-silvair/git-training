@@ -1,1 +1,3 @@
 trzeci commit, zaraz bedzie czwarty, piaty i dopiero push na server
+
+edycja tego pliku i czwarty commit, wszystko do second-branch
