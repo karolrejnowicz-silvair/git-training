@@ -1,0 +1,2 @@
+dodany kolejny plik i commit + push.
+zobaczymy jak wyglada log 
